@@ -3,7 +3,7 @@
     {
       "title": "Game 01",
       "type": "NES",
-      "url": "https://raw.githubusercontent.com/buithan04-uit/PGS-Store/main/games/Game01.nes",
+      "url": "https://cdn.jsdelivr.net/gh/buithan04-uit/PGS-Store@main/games/Game01.nes",
       "file": "Game01.nes",
       "description": "NES test game",
       "size": 0
